@@ -60,6 +60,11 @@ This portfolio website showcases my skills, education, projects, and professiona
 - **Animations**: Fade-in, slide-up, and hover transitions
 - **Background**: Subtle radial gradients with texture overlay
 
+  ## Live Demo
+
+🔗 [View Portfolio Live](https://ann-githinji.netlify.app)
+
+
 ## How to Use
 git clone https://github.com/366-awg/Portfolio.git
 Open index.html in any modern browser
