@@ -78,6 +78,7 @@ Direct links in content
 Scrolling
 
 **Professional Development**
+
 This portfolio represents my growing skills in:
 
 Frontend development (HTML/CSS)
@@ -89,6 +90,7 @@ UI/UX best practices
 Professional self-presentation
 
 **Future Enhancements**
+
 Add more project showcases as I complete them
 
 Implement dark/light mode toggle
