@@ -1,20 +1,19 @@
 # Ann Githinji - Professional Portfolio
 
 ## Overview
-This portfolio website showcases my skills, education, projects, and professional journey as an aspiring software developer and cloud architect. Designed with a modern, responsive interface, the site features dynamic animations, gradient effects, and a professional aesthetic that reflects my technical capabilities.
+This portfolio website showcases my skills, education, and professional journey as a Solutions Architect. Designed with a modern, responsive interface, the site features dynamic animations, gradient effects, and a professional aesthetic that reflects my technical capabilities.
 
 ## Key Features
 - **Modern UI/UX Design**: Clean layout with gradient accents and smooth animations
 - **Fully Responsive**: Works seamlessly across mobile, tablet, and desktop devices
 - **Interactive Elements**: Hover effects, animated cards, and smooth scrolling
 - **Professional Content Sections**: Showcasing my skills, education, and projects
-- **Contact Form**: For potential employers or collaborators to reach out
 - **Performance Optimized**: Fast loading times and efficient code structure
 
 ## Technologies Used
 - HTML5 (Semantic structure)
 - CSS3 (Flexbox, Grid, Animations, Variables)
-- SVG Icons (Embedded directly in CSS)
+- SVG Icons 
 - Responsive Design (Media queries for all device sizes)
 
 ## Professional Sections
@@ -37,21 +36,15 @@ This portfolio website showcases my skills, education, projects, and professiona
 
 ### 4. Education & Background
 - Timeline-style education display
-- Current and upcoming programs (ALX, Power Learn Project)
+- Completed and upcoming programs 
 - CV download button
 
 ### 5. Interests
-- Cloud computing and software engineering focus
+- Cloud computing and contenerization focus
 - Themed icons with hover animations
-
-### 6. Featured Project
-- Mau Forest Conservation Initiative showcase
-- Project image with zoom effect
-- Links to presentation, video, and GitHub
 
 ### 7. Contact Section
 - Multiple contact methods (email, phone, GitHub)
-- Responsive contact form
 - SVG contact icons
 
 ## Design Elements
